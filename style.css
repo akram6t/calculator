@@ -57,6 +57,11 @@ body::after
 
 }
 
+.value
+{
+    cursor:pointer;
+}
+
 .container .calculator
 {
     position: relative;
